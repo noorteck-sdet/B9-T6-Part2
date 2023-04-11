@@ -14,4 +14,9 @@ public class BereketClass {
 	public void tutorClass() {
 		System.out.println("Muhammet Ozen");
 	}
+
+	public void marketPrep() {
+		System.out.println("Muhammet Ozen2");
+	}
+
 }
