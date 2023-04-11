@@ -18,5 +18,7 @@ public class BereketClass {
 	public void marketPrep() {
 		System.out.println("Muhammet Ozen2");
 	}
+	
+	//Comment
 
 }
