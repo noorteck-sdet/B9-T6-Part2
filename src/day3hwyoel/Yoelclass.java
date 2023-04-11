@@ -10,4 +10,7 @@ public void animal() {
 public void animal2() {
 	System.out.println("Dog");
 }
+public void addAnimal() {
+	System.out.println("Monkey...");
+}
 }
