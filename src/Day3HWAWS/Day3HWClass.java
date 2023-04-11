@@ -5,7 +5,7 @@ public class Day3HWClass {
 	
 public static void main(String[] args) {
 		
-		System.out.println("Class......");
+		System.out.println("Class...");
 	}
 	
 	public void add(int a, int b) {
