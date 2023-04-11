@@ -13,6 +13,7 @@ public void animal2() {
 public void addAnimal() {
 	System.out.println("Monkey...");
 }
-public void addAnimal() {
+public void addAminal1() {
 	System.out.println("Lion...");
+}
 }
