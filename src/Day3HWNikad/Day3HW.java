@@ -9,4 +9,7 @@ public class Day3HW {
      public void addNew() {
     	 System.out.println("New method.....");
      }
+     public void divid() {
+    	 System.out.println("divid method.....Yoel");
+     }
 }
