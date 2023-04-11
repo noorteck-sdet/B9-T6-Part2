@@ -18,4 +18,11 @@ public class Team2 {
 	
 	// this is new comment from farah
 
+
+
+public void subtract() {
+	System.out.println("exam day");
+
+} 
+
 }
