@@ -25,3 +25,6 @@ public class Day3HWClass2 {
 	//changes made by Saba
 }
 // Test by Alemat
+
+//more code adding
+ //more code adding
