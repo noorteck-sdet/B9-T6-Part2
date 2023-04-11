@@ -13,4 +13,6 @@ public void animal2() {
 public void addAnimal() {
 	System.out.println("Monkey...");
 }
+public void addAnimal() {
+	System.out.println("Lion...");
 }
