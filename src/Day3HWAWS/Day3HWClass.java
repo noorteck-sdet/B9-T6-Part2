@@ -15,5 +15,8 @@ public static void main(String[] args) {
 	public static void getAddress() {
 		System.out.println("123 Street");
 	}
+public void sub() {
+	System.out.println("subtration");
+}
 
 }
