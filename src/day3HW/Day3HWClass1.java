@@ -16,5 +16,5 @@ public class Day3HWClass1 {
 	protected void getInfo() {
 		System.out.println("This is first class");
 	}
-
+  // added comment by Alemat
 }
