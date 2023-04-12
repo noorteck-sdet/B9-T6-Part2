@@ -22,5 +22,12 @@ public class SabaClass {
 	}
 	/*
 	 Added Comments by Mohammad Nikzad
+	 
 	*/
+	
+	// added this method by Nasima Amini
+	public static int add4(int a, int b) {
+		
+		return a+b;
+	}
 }
