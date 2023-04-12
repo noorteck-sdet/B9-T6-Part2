@@ -1,6 +1,6 @@
 package day3hwAlemat;
 
-public class Alemat {
+public class AlematHWday3 {
 	
 	public void divid() {
 		
