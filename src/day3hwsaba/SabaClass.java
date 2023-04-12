@@ -21,6 +21,6 @@ public class SabaClass {
 		System.out.println("Nikzad...");
 	}
 	/*
-	 Added Comments by Nikzad
+	 Added Comments by Mohammad Nikzad
 	*/
 }
