@@ -13,4 +13,8 @@ public void subtract2(int a , int b) {
 	System.out.println(" a-b");
 }
  // we are adding codes
+
+  public void addMore() {
+	  System.out.println("add new Code.....");
+  }
 }
