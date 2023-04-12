@@ -14,4 +14,20 @@ public class SabaClass {
 	public void add2(int a, int b) {
 		System.out.println("a+b");
 }
+	public void newAdd(String name) {
+		System.out.println("Mohammad Nikzad");
+	}
+	public void add4() {
+		System.out.println("Nikzad...");
+	}
+	/*
+	 Added Comments by Mohammad Nikzad
+	 
+	*/
+	
+	// added this method by Nasima Amini
+	public static int add4(int a, int b) {
+		
+		return a+b;
+	}
 }
