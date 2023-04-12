@@ -20,4 +20,7 @@ public class SabaClass {
 	public void add4() {
 		System.out.println("Nikzad...");
 	}
+	/*
+	 Added Comments by Nikzad
+	*/
 }
