@@ -20,5 +20,7 @@ public class BereketClass {
 	}
 	
 	//Comment
+	
+	//Comment 2
 
 }
