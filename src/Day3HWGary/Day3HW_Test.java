@@ -15,8 +15,6 @@ public class Day3HW_Test {
 		System.out.println(a * b);
 	}
 	
-	/// added comment
-	
-	// add more comment
+	/// addedd comment
 
 }
