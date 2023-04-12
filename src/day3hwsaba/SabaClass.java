@@ -14,4 +14,7 @@ public class SabaClass {
 	public void add2(int a, int b) {
 		System.out.println("a+b");
 }
+	public void newAdd(String name) {
+		System.out.println("Mohammad Nikzad");
+	}
 }
