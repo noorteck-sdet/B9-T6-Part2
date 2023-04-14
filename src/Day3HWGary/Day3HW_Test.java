@@ -16,5 +16,9 @@ public class Day3HW_Test {
 	}
 	
 	/// addedd comment
+	
+	public int add() {
+		return 2+3;
+	}
 
 }
