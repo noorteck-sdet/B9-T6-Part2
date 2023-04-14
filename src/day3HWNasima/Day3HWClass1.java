@@ -17,4 +17,6 @@ public class Day3HWClass1 {
 		System.out.println("This is first class");
 	}
 
+	
+	// added comment
 }
