@@ -23,3 +23,4 @@ public class Day3HWClass2 {
 		return a / b;
 	}
 }
+// comment
