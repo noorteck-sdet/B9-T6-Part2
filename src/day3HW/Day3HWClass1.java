@@ -38,4 +38,10 @@ public class Day3HWClass1 {
 		
 		
 	}
+	
+	public void getInfo4() {
+		System.out.println("Team 6...");
+		
+		
+	}
 }
