@@ -44,4 +44,7 @@ public class Day3HWClass1 {
 		
 		
 	}
+	
+	
+	// comment added by Farah
 }
