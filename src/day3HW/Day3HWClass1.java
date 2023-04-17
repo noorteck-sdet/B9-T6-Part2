@@ -23,5 +23,14 @@ public class Day3HWClass1 {
 	public void getInfo() {
 		System.out.println("Team 6...");
 	}
+
 	
+	
+	
+	
+	
+	
+	public void getInfo333() {
+		System.out.println("Team 6 Version 2...");
+	}
 }
