@@ -22,4 +22,9 @@ public class Day3HWClass1 {
 		System.out.println("team practice");
 	}
 	
+	
+	public static void add(int a , int b) {
+		System.out.println(a + b);
+	}
+	
 }
