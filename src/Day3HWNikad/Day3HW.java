@@ -11,5 +11,10 @@ public class Day3HW {
      }
      public void divid() {
     	 System.out.println("divid method.....Yoel");
+    	 
      }
-}
+    	 public void addnew() {
+    		 System.out.println("New Stash....");
+    	 }
+     }
+
