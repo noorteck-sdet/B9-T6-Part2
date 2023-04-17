@@ -28,3 +28,5 @@ public class Day3HWClass2 {
 
 //more code adding
  //more code adding
+
+// Asia testing 
