@@ -13,7 +13,10 @@ public class Day3HWClass1 {
 		return a+b;
 	}
 	
- 
+	
+	public void getInfo2() {
+		System.out.println("Team 6 Version 2...");
+	}
 	
 	
 	
