@@ -6,7 +6,9 @@ public class Day3HW2 {
 		
 		System.out.println("New Comments ....");
 	}
-
+	public void add() {
+		System.out.println(2+2);
+	}
 }
 /*
   This is From other team member..

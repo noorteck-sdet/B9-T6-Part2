@@ -36,6 +36,8 @@ public class Day3HWClass1 {
 	public void getInfo3() {
 		System.out.println("Team 6...");
 		
+		// comment also added by me....
+		
 		
 	}
 	
