@@ -16,5 +16,13 @@ public class Day3HW {
     	 public void addnew() {
     		 System.out.println("New Stash....");
     	 }
-     }
+    		 
+    	 public void plus(int a, int b) {
+    		 System.out.println(a+b);
+    		 
+    	 }
+    	
+    	 
+    	 }
+    
 
