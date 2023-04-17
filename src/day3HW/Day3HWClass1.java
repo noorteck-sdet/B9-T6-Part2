@@ -13,13 +13,12 @@ public class Day3HWClass1 {
 		return a+b;
 	}
 	
-	protected void getInfo() {
-		System.out.println("This is first class");
-	}
-  // added comment by Alemat
+ 
 	
-	public void Team() {
-		System.out.println("team practice");
+	
+	
+	public void getInfo() {
+		System.out.println("Team 6...");
 	}
 	
 }

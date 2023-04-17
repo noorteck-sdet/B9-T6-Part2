@@ -22,6 +22,12 @@ public char getGender() {
 }
 // This is practice time
 
+public static void divid( int a ,int b) {
+	System.out.println(a/b);
+	
+	// this is comment
+}
+
 //This is branch
 
 
