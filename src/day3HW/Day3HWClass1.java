@@ -2,10 +2,7 @@ package day3HW;
 
 public class Day3HWClass1 {
 	
-	public static void main(String[] args) {
-		
-		
-	}
+	
 	
 	
 	public int Sum(int a, int b) {
@@ -24,13 +21,12 @@ public class Day3HWClass1 {
 		System.out.println("Team 6...");
 	}
 
-	
-	
-	
-	
-	
-	
+
 	public void getInfo333() {
 		System.out.println("Team 6 Version 2...");
+	}
+	
+	public void getInfo3() {
+		System.out.println("Team 6...");
 	}
 }
