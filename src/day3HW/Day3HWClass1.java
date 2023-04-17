@@ -21,4 +21,7 @@ public class Day3HWClass1 {
 		System.out.println("Team 6...");
 	}
 	
+	public void getInfo3() {
+		System.out.println("Team 6...");
+	}
 }
