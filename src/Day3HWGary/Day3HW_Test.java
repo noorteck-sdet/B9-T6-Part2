@@ -22,5 +22,9 @@ public class Day3HW_Test {
 	}
 	
 	/// yoel pushing
+	
+	public void add1() {
+		System.out.println(2+3);
+	}
 
 }
