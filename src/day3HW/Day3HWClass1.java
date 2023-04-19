@@ -54,4 +54,6 @@ public class Day3HWClass1 {
 	
 	
 	// brand new conflict wednesday 
+	
+	// i am adding comment new comment wed.....
 }
